@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExamenPSP_AD</string>
+    <string name="button_listado">Listar Agenda</string>
+    <string name="editText_nombre">Nombre</string>
+    <string name="editText_apellidos">Apellidos</string>
+    <string name="editText_telefono">Telefono</string>
+    <string name="editText_fechanacimiento">Fecha Nacimiento</string>
+    <string name="editText_localidad">Localidad</string>
+    <string name="editText_calle">Calle</string>
+    <string name="editText_numero">Nº</string>
+    <string name="button_add">Add</string>
+    <string name="textView_titulo">AGENDA</string>
+    <string name="textView_subTitulo">Seleccione la accion que quiera realizar con la Agenda</string>
+    <string name="button_añadir">Añadir</string>
+    <string name="button_borrar">Borrar</string>
+    <string name="button_actualizar">Actualizar</string>
+    <string name="editText_id">ID</string>
+    <string name="editText_idUpdate">ID</string>
+</resources>
